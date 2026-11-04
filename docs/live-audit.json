@@ -1,0 +1,330 @@
+{
+  "checkedAt": "2026-11-04T16:52:54.768Z",
+  "pages": [
+    {
+      "route": "/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/servicios/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/implementacion-iso/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/normas-iso/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/nosotros/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/preparacion-certificacion/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/erp/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/auditorias/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/gestion-documental/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/acompanamiento/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/metodologia/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/academia/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/industrias/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/capacitacion-empresas/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/capacitacion-personas/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/recursos/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/proyectos/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/preguntas-frecuentes/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/cotizar/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/contacto/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-27001/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-22000/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-9001/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-14001/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-45001/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-31000/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/curso/implementacion-sistemas/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-19011/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/norma/iso-26000/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/curso/fundamentos-iso/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/creditos/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/gracias/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/cookies/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/privacidad/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    },
+    {
+      "route": "/curso/auditoria-interna/",
+      "status": 200,
+      "h1": 1,
+      "description": true,
+      "lang": "es-CL",
+      "unrenderedShortcode": false
+    }
+  ],
+  "assets": [
+    {
+      "route": "/wp-content/themes/chp-global-iso/assets/chuquicamata-1600.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "route": "/wp-content/themes/chp-global-iso/assets/valparaiso-1280.webp",
+      "status": 200,
+      "type": "image/webp"
+    },
+    {
+      "route": "/wp-content/themes/chp-global-iso/assets/inter-latin-wght-normal.woff2",
+      "status": 200,
+      "type": "font/woff2"
+    },
+    {
+      "route": "/wp-sitemap.xml",
+      "status": 200,
+      "type": "application/xml; charset=UTF-8"
+    }
+  ],
+  "forms": {
+    "missingConsent": {
+      "status": 302,
+      "location": "https://chpglobaliso.cl/cotizar/?solicitud=error"
+    },
+    "tamperedService": {
+      "status": 302,
+      "location": "https://chpglobaliso.cl/cotizar/?solicitud=error"
+    },
+    "validAnonymous": {
+      "status": 302,
+      "location": "https://chpglobaliso.cl/gracias/?solicitud=registrada"
+    },
+    "duplicateRateLimit": {
+      "status": 302,
+      "location": "https://chpglobaliso.cl/cotizar/?solicitud=error"
+    }
+  },
+  "limitations": [
+    "No recepción de correo comprobada",
+    "Sin auditoría WCAG completa ni medición de Core Web Vitals de campo",
+    "Respaldo previo completado, sin prueba de restauración en hosting"
+  ]
+}
