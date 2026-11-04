@@ -1,3 +1,7 @@
+Actualización 1.4: fotografía documental y composición editorial en 19 páginas interiores y 11 fichas de normas/cursos. La cabecera combina texto e imagen; los textos se presentan en columnas y los créditos acompañan cada foto. Se conserva la portada compacta, el logo oficial, el favicon y la incompatibilidad entre certificación y otros servicios.
+
+La construcción completa ahora ejecuta `build.mjs`, `reference-design.mjs` e `interior-design.mjs`, en ese orden (también mediante el script `build` del paquete). `interior.css` se carga después de los estilos anteriores. Los interiores publicados se presentan mediante plantillas de tema específicas; el contenido previo en los registros de WordPress se conserva. Para modificar su presentación en producción, usar Aspecto → Editor → Plantillas; para reproducir los cambios, modificar las fuentes y reconstruir. Las fichas usan plantillas `single-{tipo}-{slug}.html`.
+
 # CHP GLOBAL ISO SpA — WordPress
 
 Actualización visual 1.1: portada compacta según la referencia proporcionada (cabecera con marca circular y menús desplegables, banner industrial con profesionales, cuatro servicios con iconos, paneles de industria/ERP, franja de normas y pie compacto). La portada se edita en la plantilla `front-page.html` del tema, también disponible en el editor del sitio. El contenido anterior de la página Inicio permanece conservado. Las páginas interiores y el plugin/formularios no se sustituyen al actualizar el tema.
