@@ -1,5 +1,9 @@
 # CHP GLOBAL ISO SpA — WordPress
 
+Actualización visual 1.1: portada compacta según la referencia proporcionada (cabecera con marca circular y menús desplegables, banner industrial con profesionales, cuatro servicios con iconos, paneles de industria/ERP, franja de normas y pie compacto). La portada se edita en la plantilla `front-page.html` del tema, también disponible en el editor del sitio. El contenido anterior de la página Inicio permanece conservado. Las páginas interiores y el plugin/formularios no se sustituyen al actualizar el tema.
+
+Para reproducir la versión 1.1, ejecutar `node scripts/build.mjs` seguido de `node scripts/reference-design.mjs`, o el script `build` del paquete. `reference.css` contiene los estilos de la referencia. Las dos composiciones generadas se identifican como ilustrativas; no son fotos documentales de una planta ni capturas de un ERP operativo.
+
 Implementación del brief de la tarea #1. Tema de bloques independiente, plugin de catálogos/solicitudes y contenido editable. Sin credenciales en el repositorio.
 
 ## Instalación

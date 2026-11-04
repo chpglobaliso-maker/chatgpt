@@ -1,5 +1,7 @@
 # Registro de derechos y fuentes
 
+Actualización visual 1.1: `hero-reference-v2.webp` y `erp-reference-v2.webp` son composiciones generadas con la herramienta integrada de imágenes a partir de la dirección visual del usuario. El banner muestra un entorno industrial inspirado en Chile, sin documentar una planta ni trabajadores reales. El portátil muestra un tablero genérico, sin afirmar que sea un producto CHP disponible. Sus usos se identifican en el propio banner y junto al panel ERP. La marca circular es una reconstrucción vectorial para aproximar la referencia suministrada; no constituye validación de un registro marcario.
+
 Verificación editorial: 4 de noviembre de 2026. Uso de contexto industrial; ninguna imagen acredita una relación comercial, autorización de acceso a instalaciones o respaldo de sus operadores.
 
 | Archivo | Autor / lugar | Fuente | Licencia | Cambios |

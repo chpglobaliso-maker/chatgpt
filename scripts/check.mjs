@@ -11,7 +11,7 @@ assert.equal(seed.filter(x=>x.type==='chp_curso').length,3);
 assert.equal(new Set(seed.map(x=>x.type+'/'+x.slug)).size,35);
 const targets=new Set(seed.map(x=>(x.type==='page'?(x.slug==='inicio'?'/':`/${x.slug}/`):`/${x.type==='chp_norma'?'norma':'curso'}/${x.slug}/`)));
 for(const item of seed) {
- assert.equal((item.content.match(/<h1 /g)||[]).length,1,item.slug+' heading');
+ assert.equal((item.content.match(/<h1\b/g)||[]).length,1,item.slug+' heading');
  assert(item.excerpt.length>15,item.slug+' description');
  for(const [,url] of item.content.matchAll(/href="(\/[^"]*)"/g)) assert(targets.has(url),`${item.slug}: broken link ${url}`);
  const stack=[];
