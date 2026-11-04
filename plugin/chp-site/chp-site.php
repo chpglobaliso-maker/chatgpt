@@ -2,7 +2,7 @@
 /**
  * Plugin Name: CHP Site
  * Description: Contenido corporativo, catálogos y solicitudes privadas para CHP GLOBAL ISO SpA.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires PHP: 8.1
  * License: GPL-2.0-or-later
  */
@@ -90,7 +90,7 @@ add_shortcode('chp_form', function () {
     </form><?php return ob_get_clean();
 });
 function chp_form_options() {
-    return ['cliente' => ['Tipo de cliente *', ['Empresa', 'Persona']], 'industria' => ['Industria *', ['Minería', 'Energía', 'Construcción', 'Transporte y logística', 'Alimentos', 'Servicios', 'Pyme', 'Otra', 'No aplica']], 'servicio' => ['Servicio de interés *', ['Implementación ISO', 'Auditorías', 'Preparación para certificación', 'Acompañamiento', 'ERP', 'Gestión documental', 'Capacitación', 'Consulta general']], 'norma' => ['Norma de interés *', ['ISO 9001', 'ISO 14001', 'ISO 45001', 'ISO 22000', 'ISO/IEC 27001', 'ISO 31000', 'ISO 19011', 'ISO 26000', 'Varias normas', 'Por definir', 'No aplica']], 'trabajadores' => ['Número aproximado de trabajadores *', ['1–10', '11–50', '51–200', 'Más de 200', 'No aplica']], 'plazo' => ['Plazo esperado *', ['Este mes', '1–3 meses', 'Más de 3 meses', 'Por definir']]];
+    return ['cliente' => ['Tipo de cliente *', ['Empresa', 'Persona']], 'industria' => ['Industria *', ['Minería', 'Energía', 'Construcción', 'Transporte y logística', 'Alimentos', 'Servicios', 'Pyme', 'Otra', 'No aplica']], 'servicio' => ['Servicio de interés *', ['Certificación', 'Implementación ISO', 'Auditorías', 'Preparación para certificación', 'Acompañamiento', 'ERP', 'Gestión documental', 'Capacitación', 'Consulta general']], 'norma' => ['Norma de interés *', ['ISO 9001', 'ISO 14001', 'ISO 45001', 'ISO 22000', 'ISO/IEC 27001', 'ISO 31000', 'ISO 19011', 'ISO 26000', 'Varias normas', 'Por definir', 'No aplica']], 'trabajadores' => ['Número aproximado de trabajadores *', ['1–10', '11–50', '51–200', 'Más de 200', 'No aplica']], 'plazo' => ['Plazo esperado *', ['Este mes', '1–3 meses', 'Más de 3 meses', 'Por definir']]];
 }
 add_action('admin_post_nopriv_chp_lead', 'chp_handle_lead');
 add_action('admin_post_chp_lead', 'chp_handle_lead');
