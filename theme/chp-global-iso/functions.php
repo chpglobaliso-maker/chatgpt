@@ -8,8 +8,8 @@ add_action('after_setup_theme', function () {
     add_editor_style('interior.css');
 });
 add_action('wp_enqueue_scripts', function () {
-    wp_enqueue_style('chp-global', get_stylesheet_uri(), [], '1.4.4');
-    wp_enqueue_style('chp-reference', get_template_directory_uri() . '/reference.css', ['chp-global'], '1.4.4');
-    wp_enqueue_style('chp-interior', get_template_directory_uri() . '/interior.css', ['chp-reference'], '1.4.4');
+    wp_enqueue_style('chp-global', get_stylesheet_uri(), [], '1.4.5');
+    wp_enqueue_style('chp-reference', get_template_directory_uri() . '/reference.css', ['chp-global'], '1.4.5');
+    wp_enqueue_style('chp-interior', get_template_directory_uri() . '/interior.css', ['chp-reference'], '1.4.5');
 });
 

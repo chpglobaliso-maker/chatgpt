@@ -240,8 +240,16 @@
     "title": "Gestión documental",
     "eyebrow": "INFORMACIÓN BAJO CONTROL",
     "headline": "Encuentra la versión correcta, cuando la necesitas",
-    "intro": "Ordena documentos y evidencias con reglas comprensibles para quienes los crean y utilizan.",
+    "intro": "Inteligencia artificial y tecnología para organizar tus documentos, acceder de inmediato a las evidencias disponibles y agilizar las respuestas ante auditorías y revisiones de las SEREMI.",
     "sections": [
+      [
+        "Información al instante para auditorías y revisiones de las SEREMI",
+        "Aplicamos inteligencia artificial y tecnología a la gestión documental para facilitar la búsqueda inmediata de documentos y registros disponibles en el sistema. Esto ayuda a reunir y presentar antecedentes con rapidez durante auditorías y revisiones de las Secretarías Regionales Ministeriales (SEREMI), con información ordenada, trazable y accesible según los permisos de cada usuario."
+      ],
+      [
+        "Menos tiempo buscando, más capacidad de respuesta",
+        "Centralizar documentos, identificar versiones vigentes y consultar información con apoyo de IA puede reducir búsquedas manuales y agilizar la preparación de respuestas. El acceso inmediato depende de que los antecedentes estén previamente cargados, actualizados y validados, y de la disponibilidad del sistema. La entrega de información a auditores o autoridades se realiza con revisión y autorización de la persona responsable."
+      ],
       [
         "Diagnóstico documental",
         "Revisamos tipos de documento, ubicación, responsables, acceso y uso. Identificamos duplicidades, versiones sin control y registros que no permiten demostrar lo realizado."
