@@ -22,8 +22,12 @@
     "title": "Nosotros",
     "eyebrow": "CHP GLOBAL ISO SpA",
     "headline": "Criterio técnico. Visión de empresa.",
-    "intro": "Consultoría, formación y desarrollo de soluciones digitales para conectar la gestión con los desafíos de las organizaciones en Chile.",
+    "intro": "Organismo de certificación, consultoría, formación y tecnología para las organizaciones en Chile.",
     "sections": [
+      [
+        "Certificación y red de respaldo",
+        "CHP GLOBAL ISO SpA es un organismo de certificación respaldado por la red Exemplar Global e Intercert Latinoamérica. Consulta el alcance, la entidad emisora y las condiciones aplicables al servicio que necesitas."
+      ],
       [
         "Nuestro propósito",
         "Ayudar a las organizaciones a ordenar sus procesos, desarrollar capacidades y tomar decisiones con información útil. Nuestro trabajo reúne sistemas de gestión, auditorías, acompañamiento y transformación digital."
@@ -85,7 +89,7 @@
       ],
       [
         "Qué recibirás",
-        "Un diagnóstico, una hoja de ruta, herramientas de gestión y un registro de avances, según el alcance contratado. La certificación externa se cotiza y contrata de forma independiente."
+        "Un diagnóstico, una hoja de ruta, herramientas de gestión y un registro de avances, según el alcance contratado. La certificación se define con un alcance y una cotización específicos, indicando la entidad emisora y las condiciones aplicables."
       ]
     ]
   },
@@ -153,7 +157,7 @@
       ],
       [
         "Alcance transparente",
-        "CHP GLOBAL ISO SpA actúa como consultora. No se presenta como organismo certificador acreditado ni garantiza la obtención de un certificado."
+        "CHP GLOBAL ISO SpA es un organismo de certificación respaldado por la red Exemplar Global e Intercert Latinoamérica. El alcance, la entidad emisora y las condiciones del proceso se especifican en la propuesta. La decisión de certificación depende de la evaluación y del cumplimiento de los requisitos aplicables."
       ]
     ]
   },
@@ -427,7 +431,7 @@
     "sections": [
       [
         "¿Implementar es lo mismo que certificar?",
-        "No. Implementar es poner en funcionamiento un sistema. Certificar es una evaluación de tercera parte realizada por un organismo independiente. CHP presta consultoría y preparación; no garantiza un certificado."
+        "No. Implementar es poner en funcionamiento un sistema. Certificar es una evaluación de tercera parte realizada por un organismo independiente. CHP GLOBAL ISO es un organismo de certificación y también ofrece consultoría y preparación. El alcance y las condiciones de cada servicio se establecen en la propuesta."
       ],
       [
         "¿Cuánto tarda una implementación?",
