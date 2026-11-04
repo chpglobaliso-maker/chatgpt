@@ -50,7 +50,7 @@
 @media(max-width:540px){.chp-editorial-intro{padding:26px 22px 30px}.chp-editorial-intro h1{font-size:32px;margin:12px 0 17px}.chp-editorial-intro .chp-intro{font-size:16px}.chp-editorial-intro .chp-breadcrumb{margin-bottom:20px!important}.chp-editorial-rule{margin-top:20px}.chp-editorial-hero>.chp-editorial-photo img{height:230px;max-height:230px}.chp-editorial-photo figcaption{padding:9px 16px;display:block}.chp-editorial-photo figcaption span{display:block}.chp-interior>.wp-block-group.chp-section,.chp-sector-gallery,.chp-editorial-break{margin-left:22px;margin-right:22px}.chp-interior>.wp-block-group.chp-section p{font-size:14px}.chp-interior .chp-band h2{font-size:28px}.chp-sector-gallery>div>h2{font-size:28px}.chp-photo-credits .chp-license-grid{grid-template-columns:1fr}.chp-contact-city img{min-height:160px;aspect-ratio:2.5/1}.chp-company-contact h1{font-size:31px}.chp-interior .chp-certification-service h2{font-size:30px}}
 
 /* Justify body copy throughout the public website, including mobile. */
-main p:not(.chp-eyebrow):not(.chp-breadcrumb){text-align:justify;text-align-last:start;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto;}
+main p:not(.chp-eyebrow):not(.chp-breadcrumb):not(:where(form *)){text-align:justify;text-align-last:start;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto;}
 
 /* Subtle green accents drawn from the official CHP logo. */
 :root{--chp-brand-green:#18eb06;--chp-green-line:rgba(24,235,6,.28)}
@@ -79,4 +79,15 @@ main:not(:has(.chp-ref-home)) .chp-hero{border-bottom:3px solid rgba(24,235,6,.6
 .chp-contact-city{border-bottom:3px solid rgba(24,235,6,.65)}
 .chp-sector-grid article{border-bottom:3px solid rgba(24,235,6,.75)}
 .chp-certification-service{border-top-color:rgba(24,235,6,.7)}
+
+/* Form labels and guidance use natural left alignment, never body-copy justification. */
+main .chp-form,main .chp-form :is(label,legend,p,span,input,select,textarea){text-align:left;text-align-last:auto;text-justify:auto;-webkit-hyphens:none;hyphens:none}
+/* WordPress paragraph wrappers must not collapse all fields into a single grid cell. */
+.chp-form>p{display:contents}
+.chp-form>p:empty,.chp-form>br,.chp-form>p>br{display:none}
+.chp-form{grid-template-columns:repeat(2,minmax(0,1fr));align-items:start}
+.chp-form label{min-width:0;line-height:1.5}
+.chp-form label:not(.check)>:is(input,select,textarea){display:block;margin-top:7px}
+.chp-form .check{font-weight:400}
+@media(max-width:540px){.chp-form{grid-template-columns:minmax(0,1fr)}}
 
