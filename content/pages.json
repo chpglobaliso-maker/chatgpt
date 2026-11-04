@@ -1,0 +1,511 @@
+[
+  {
+    "slug": "inicio",
+    "title": "Inicio",
+    "eyebrow": "GESTIÓN QUE IMPULSA",
+    "headline": "Transformamos la gestión en resultados",
+    "intro": "Sistemas ISO, tecnología y capacitación para empresas que avanzan.",
+    "sections": [
+      [
+        "Una gestión conectada con tu operación",
+        "Unimos procesos, personas y tecnología para que la mejora se pueda llevar a la práctica. Partimos de tu realidad: tamaño de la empresa, actividad, riesgos, recursos y objetivos."
+      ],
+      [
+        "Del diagnóstico a la mejora continua",
+        "Definimos brechas, acordamos prioridades y acompañamos a tu equipo con responsables, entregables y seguimiento. La certificación, cuando corresponda, es una evaluación independiente del trabajo realizado."
+      ]
+    ],
+    "component": "home"
+  },
+  {
+    "slug": "nosotros",
+    "title": "Nosotros",
+    "eyebrow": "CHP GLOBAL ISO SpA",
+    "headline": "Criterio técnico. Visión de empresa.",
+    "intro": "Organismo de certificación, consultoría, formación y tecnología para las organizaciones en Chile.",
+    "sections": [
+      [
+        "Certificación y red de respaldo",
+        "CHP GLOBAL ISO SpA es un organismo de certificación respaldado por la red Exemplar Global e Intercert Latinoamérica. Consulta el alcance, la entidad emisora y las condiciones aplicables al servicio que necesitas."
+      ],
+      [
+        "Nuestro propósito",
+        "Ayudar a las organizaciones a ordenar sus procesos, desarrollar capacidades y tomar decisiones con información útil. Nuestro trabajo reúne sistemas de gestión, auditorías, acompañamiento y transformación digital."
+      ],
+      [
+        "Misión y visión",
+        "Nuestra misión es convertir necesidades de gestión en planes de trabajo aplicables y medibles. Aspiramos a ser un aliado de largo plazo para empresas que buscan mejorar su desempeño y fortalecer sus equipos."
+      ],
+      [
+        "Cómo nos relacionamos",
+        "Trabajamos con claridad de alcance, confidencialidad, independencia de criterio y respeto por las personas. Cada propuesta establece los responsables y las competencias requeridas para el proyecto."
+      ],
+      [
+        "Equipo por proyecto",
+        "La propuesta identifica al equipo asignado, su experiencia y sus responsabilidades antes de comenzar. No publicamos acreditaciones ni trayectorias sin respaldo verificable."
+      ]
+    ]
+  },
+  {
+    "slug": "servicios",
+    "title": "Servicios",
+    "eyebrow": "SOLUCIONES PARA TU EMPRESA",
+    "headline": "Cada desafío tiene un punto de partida",
+    "intro": "Certificación, implementación ISO, auditorías, desarrollo ERP y capacitación. Elige la ruta compatible con tu necesidad: certificación y otros servicios son excluyentes.",
+    "sections": [
+      [
+        "Un alcance claro desde el comienzo",
+        "La propuesta se construye a partir de un diagnóstico. Considera actividades, sedes, procesos, personas, riesgos, plazos y evidencias disponibles. Identificamos también los aportes que necesita realizar tu equipo."
+      ],
+      [
+        "Gestión, tecnología y aprendizaje",
+        "Puedes evaluar implementación, auditoría interna, formación y herramientas digitales según tus necesidades. Esta ruta es incompatible con contratar certificación con CHP GLOBAL ISO. Si eliges nuestra certificación, no puedes contratar ni interactuar con nuestras otras líneas de servicio."
+      ]
+    ],
+    "component": "services"
+  },
+  {
+    "slug": "implementacion-iso",
+    "title": "Implementación ISO",
+    "eyebrow": "SISTEMAS DE GESTIÓN",
+    "headline": "Diseñados para funcionar, no solo para documentar",
+    "intro": "Convierte los requisitos de gestión en prácticas que tu equipo pueda aplicar y sostener.",
+    "sections": [
+      [
+        "Diagnóstico de brechas",
+        "Revisamos el contexto de la organización, el alcance previsto y la evidencia existente. Identificamos brechas frente a la norma seleccionada y priorizamos el trabajo según riesgo y madurez."
+      ],
+      [
+        "Procesos y responsabilidades",
+        "Construimos el mapa de procesos, definimos responsables y acordamos objetivos. El plan integra riesgos, oportunidades, controles operacionales y necesidades de competencia."
+      ],
+      [
+        "Documentación e indicadores",
+        "Diseñamos los documentos necesarios para operar y demostrar resultados. Definimos indicadores con fuente de datos, frecuencia, responsable y criterio de seguimiento."
+      ],
+      [
+        "Verificación y mejora",
+        "Acompañamos la puesta en práctica, la auditoría interna y la revisión por la dirección. Los hallazgos se traducen en acciones con responsables, plazos y verificación de eficacia."
+      ],
+      [
+        "Qué recibirás",
+        "Un diagnóstico, una hoja de ruta, herramientas de gestión y un registro de avances, según el alcance contratado. La implementación con CHP GLOBAL ISO es incompatible con contratar nuestro servicio de certificación. Debes optar por una de las dos rutas."
+      ]
+    ]
+  },
+  {
+    "slug": "normas-iso",
+    "title": "Normas ISO",
+    "eyebrow": "ENCUENTRA TU MARCO DE GESTIÓN",
+    "headline": "La norma adecuada para tu objetivo",
+    "intro": "Calidad, ambiente, seguridad, inocuidad e información: explora el ámbito de cada norma y su aplicación.",
+    "sections": [
+      [
+        "Requisitos y directrices cumplen funciones distintas",
+        "Algunas normas establecen requisitos de sistemas de gestión evaluables por un organismo independiente. Otras ofrecen orientación para tomar decisiones o realizar auditorías. El alcance y la edición aplicable se acuerdan al inicio del proyecto."
+      ],
+      [
+        "Ediciones revisadas",
+        "El directorio enlaza las fichas oficiales de ISO y registra la fecha de revisión editorial. Las condiciones de transición de certificados deben confirmarse con el organismo certificador correspondiente."
+      ]
+    ],
+    "component": "standards"
+  },
+  {
+    "slug": "auditorias",
+    "title": "Auditorías",
+    "eyebrow": "EVIDENCIA PARA MEJORAR",
+    "headline": "Una mirada independiente a tus procesos",
+    "intro": "Detecta brechas, verifica controles y transforma los hallazgos en decisiones.",
+    "sections": [
+      [
+        "Auditorías internas y de brechas",
+        "Evaluamos la aplicación del sistema frente a criterios acordados. El programa considera los procesos, riesgos, resultados previos y la información disponible."
+      ],
+      [
+        "Segunda parte y proveedores",
+        "Revisamos requisitos contractuales y operacionales en tu cadena de suministro, dentro del alcance y autorizaciones establecidos con las partes."
+      ],
+      [
+        "Cómo trabajamos",
+        "Acordamos objetivos, criterios y muestreo; planificamos entrevistas y revisión de registros; contrastamos evidencia y comunicamos resultados. Utilizamos ISO 19011 como referencia metodológica."
+      ],
+      [
+        "Entregables y seguimiento",
+        "El informe distingue evidencia, criterio y hallazgo. El plan de acción define responsables, fechas y verificación de eficacia. Una auditoría por muestreo no garantiza ausencia total de incumplimientos."
+      ]
+    ]
+  },
+  {
+    "slug": "preparacion-certificacion",
+    "title": "Preparación para certificación",
+    "eyebrow": "LLEGA CON EVIDENCIA",
+    "headline": "Prepara tu organización para la evaluación externa",
+    "intro": "Acompañamiento para revisar el sistema, tratar brechas y organizar la evidencia antes de la auditoría de certificación.",
+    "sections": [
+      [
+        "Revisión de preparación",
+        "Evaluamos la implementación, las auditorías internas, la revisión por la dirección y los registros necesarios. Priorizamos las brechas que pueden afectar el objetivo del proyecto."
+      ],
+      [
+        "Tratamiento de no conformidades",
+        "Apoyamos el análisis de causas, la definición de acciones y la revisión de sus resultados. El cierre depende de evidencia suficiente y de los criterios del evaluador."
+      ],
+      [
+        "Coordinación con independencia",
+        "Ayudamos a ordenar antecedentes y disponibilidad del equipo. El organismo certificador mantiene la responsabilidad de evaluar y decidir sobre la certificación."
+      ],
+      [
+        "Preparación y certificación son rutas excluyentes",
+        "Este es un servicio de preparación y acompañamiento. Contratarlo impide contratar la certificación con CHP GLOBAL ISO. Si eliges nuestro servicio de certificación, no puedes contratar ni interactuar con esta u otras líneas de servicio de CHP."
+      ]
+    ]
+  },
+  {
+    "slug": "acompanamiento",
+    "title": "Acompañamiento",
+    "eyebrow": "CONTINUIDAD DEL SISTEMA",
+    "headline": "La mejora necesita seguimiento",
+    "intro": "Mantén activos los compromisos de gestión y convierte los indicadores en conversaciones útiles.",
+    "sections": [
+      [
+        "Un plan según tu madurez",
+        "Acordamos una frecuencia de trabajo y una cartera de prioridades. El acompañamiento puede enfocarse en operación del sistema, preparación de auditorías o actualización documental."
+      ],
+      [
+        "Revisión con responsables",
+        "Revisamos objetivos, indicadores, riesgos, acciones pendientes y cambios de contexto. Cada reunión deja acuerdos, responsables y fechas de seguimiento."
+      ],
+      [
+        "Apoyo a la dirección",
+        "Ordenamos los insumos para la revisión directiva y facilitamos el análisis del desempeño. La toma de decisiones y la asignación de recursos siguen a cargo de la organización."
+      ],
+      [
+        "Autonomía de tu equipo",
+        "La transferencia de herramientas y criterios forma parte del trabajo. Buscamos que las personas puedan sostener el sistema y reconocer cuándo necesitan apoyo especializado."
+      ]
+    ]
+  },
+  {
+    "slug": "erp",
+    "title": "Plataformas ERP",
+    "eyebrow": "TRANSFORMACIÓN DIGITAL",
+    "headline": "De los registros dispersos al control de tu empresa",
+    "intro": "Diseño y desarrollo de soluciones a partir de tus procesos, usuarios y decisiones.",
+    "sections": [
+      [
+        "Primero el proceso, luego la plataforma",
+        "Levantamos cómo se captura y utiliza la información. Identificamos tareas repetidas, puntos de control, permisos y oportunidades de automatización antes de proponer una arquitectura."
+      ],
+      [
+        "Módulos según alcance",
+        "Podemos evaluar necesidades de operaciones, personas, mantenimiento, calidad, ambiente, seguridad, documentos e indicadores. Esta lista describe ámbitos de desarrollo; no implica módulos disponibles o contratados."
+      ],
+      [
+        "Integraciones y datos",
+        "Cada integración requiere revisar los sistemas de origen, permisos, formatos y calidad de datos. La propuesta distingue desarrollo, migración, pruebas, soporte y costos de terceros."
+      ],
+      [
+        "Demostración y validación",
+        "Solicita una reunión para revisar tu caso. La disponibilidad de una demostración y las funcionalidades a presentar se confirman previamente. No se muestran pantallas ficticias como productos operativos."
+      ],
+      [
+        "Seguridad desde el diseño",
+        "Definimos perfiles, trazabilidad, respaldo y condiciones de alojamiento. Los portales con información empresarial se implementan separados del sitio corporativo público."
+      ]
+    ]
+  },
+  {
+    "slug": "gestion-documental",
+    "title": "Gestión documental",
+    "eyebrow": "INFORMACIÓN BAJO CONTROL",
+    "headline": "Encuentra la versión correcta, cuando la necesitas",
+    "intro": "Ordena documentos y evidencias con reglas comprensibles para quienes los crean y utilizan.",
+    "sections": [
+      [
+        "Diagnóstico documental",
+        "Revisamos tipos de documento, ubicación, responsables, acceso y uso. Identificamos duplicidades, versiones sin control y registros que no permiten demostrar lo realizado."
+      ],
+      [
+        "Ciclo de vida",
+        "Definimos creación, revisión, aprobación, publicación, actualización y retiro. La nomenclatura y los permisos se diseñan según los procesos y el nivel de confidencialidad."
+      ],
+      [
+        "Evidencia y trazabilidad",
+        "Establecemos criterios para conservar registros, recuperar información y controlar cambios. La solución puede partir de herramientas existentes o requerir un desarrollo específico."
+      ],
+      [
+        "Adopción por las personas",
+        "Acompañamos la migración y el uso de las reglas acordadas. La herramienta debe facilitar el trabajo sin crear pasos que no aporten control o información útil."
+      ]
+    ]
+  },
+  {
+    "slug": "academia",
+    "title": "Academia ISO",
+    "eyebrow": "CONOCIMIENTO QUE SE APLICA",
+    "headline": "Aprende, aplica y transforma tu futuro profesional",
+    "intro": "Explora rutas de aprendizaje en sistemas de gestión, auditorías y mejora de procesos.",
+    "sections": [
+      [
+        "Formación con un propósito",
+        "El punto de partida es la competencia que necesitas desarrollar: comprender una norma, implementar procesos o participar en auditorías. Seleccionamos casos y ejercicios según el público."
+      ],
+      [
+        "Consulta la próxima convocatoria",
+        "Las rutas publicadas permiten registrar interés. Fechas, horas, modalidad, docente, evaluación, valores y condiciones se confirman en una propuesta o ficha de convocatoria antes de inscribirse."
+      ],
+      [
+        "Constancias y reconocimiento",
+        "El tipo de constancia o certificado se comunica antes de contratar. No se ofrecen acreditaciones ni reconocimiento de terceros sin respaldo documental."
+      ]
+    ],
+    "component": "courses"
+  },
+  {
+    "slug": "capacitacion-empresas",
+    "title": "Capacitación para empresas",
+    "eyebrow": "COMPETENCIAS EN TU ORGANIZACIÓN",
+    "headline": "Un plan de aprendizaje conectado con cada cargo",
+    "intro": "Alinea la formación con las responsabilidades, riesgos y objetivos de tu equipo.",
+    "sections": [
+      [
+        "Levantamiento de necesidades",
+        "Revisamos funciones, conocimientos previos y brechas de desempeño. Distinguimos sensibilización, aplicación práctica y competencias para auditar."
+      ],
+      [
+        "Programa a medida",
+        "Acordamos objetivos observables, contenidos, ejercicios, modalidad y evaluación. Los ejemplos pueden adaptarse a los procesos de la empresa respetando su confidencialidad."
+      ],
+      [
+        "Evaluación y transferencia",
+        "Definimos cómo comprobar el aprendizaje y qué evidencia se entregará. Podemos incluir actividades posteriores para revisar la aplicación, si forman parte del alcance."
+      ],
+      [
+        "Qué necesitamos para cotizar",
+        "Indica tema, número de participantes, roles, sedes, disponibilidad y modalidad preferida. Las horas, el docente y las condiciones comerciales se confirman por escrito."
+      ]
+    ]
+  },
+  {
+    "slug": "capacitacion-personas",
+    "title": "Capacitación para personas",
+    "eyebrow": "TU SIGUIENTE PASO PROFESIONAL",
+    "headline": "Construye una ruta de aprendizaje con sentido",
+    "intro": "Orienta tu formación según tu experiencia y el tipo de responsabilidad que buscas asumir.",
+    "sections": [
+      [
+        "Comenzar con fundamentos",
+        "Si estás conociendo los sistemas de gestión, parte por conceptos, procesos y lectura de requisitos. No se exige anunciar experiencia que aún no tienes."
+      ],
+      [
+        "Pasar a la aplicación",
+        "Para quienes participan en un sistema, la formación puede enfocarse en documentación, riesgos, indicadores y acciones de mejora con ejercicios de aplicación."
+      ],
+      [
+        "Desarrollar habilidades de auditoría",
+        "La ruta de auditoría trabaja planificación, entrevistas, evidencia, hallazgos e informes. Los requisitos de ingreso y la evaluación se especifican para cada convocatoria."
+      ],
+      [
+        "Antes de inscribirte",
+        "Solicita el programa, duración, modalidad, docente, evaluación, valor y condiciones de cambios o devolución. El registro de interés no genera una compra ni reserva un cupo."
+      ]
+    ]
+  },
+  {
+    "slug": "industrias",
+    "title": "Industrias",
+    "eyebrow": "UNA MIRADA DESDE CHILE",
+    "headline": "Entendemos la gestión desde el terreno",
+    "intro": "Cada actividad tiene riesgos, relaciones y ritmos distintos. El sistema debe responder a esa realidad.",
+    "sections": [
+      [
+        "Minería y empresas proveedoras",
+        "Foco en control operacional, coordinación de contratistas, seguridad, competencias y evidencia de cumplimiento de requisitos del mandante. El diagnóstico delimita sedes y actividades."
+      ],
+      [
+        "Energía e infraestructura",
+        "Gestión de cambios, mantenimiento, continuidad, aspectos ambientales y trazabilidad de controles durante el ciclo del proyecto."
+      ],
+      [
+        "Construcción",
+        "Procesos por obra, control de suministros, inspecciones, documentación técnica y coordinación entre equipos. El alcance considera la relación entre oficina y terreno."
+      ],
+      [
+        "Transporte y logística",
+        "Seguimiento de servicios, mantenimiento, proveedores, incidentes y documentación para dar visibilidad a una cadena de operaciones."
+      ],
+      [
+        "Alimentos",
+        "Control de procesos, peligros de inocuidad, comunicación y trazabilidad en la cadena alimentaria, según el alcance de la organización."
+      ],
+      [
+        "Servicios y pymes",
+        "Procesos simples, responsabilidades claras y datos útiles para crecer. Priorizamos controles proporcionados al tamaño y los recursos de la empresa."
+      ]
+    ],
+    "component": "industries"
+  },
+  {
+    "slug": "metodologia",
+    "title": "Metodología",
+    "eyebrow": "UN CAMINO COMPARTIDO",
+    "headline": "De una necesidad a un plan que avanza",
+    "intro": "Descubre → Diagnóstico → Propuesta → Proyecto. Cuatro momentos para acordar expectativas y trabajar con claridad.",
+    "sections": [
+      [
+        "01 · Descubre",
+        "Conversamos sobre tus objetivos, contexto y principales dificultades. Identificamos qué información hace falta para evaluar el trabajo."
+      ],
+      [
+        "02 · Diagnóstico",
+        "Contrastamos procesos y evidencia con criterios acordados. Entregamos una lectura de brechas y prioridades, con sus límites de revisión."
+      ],
+      [
+        "03 · Propuesta",
+        "Definimos alcance, entregables, responsables, hitos y condiciones. Los plazos dependen de la madurez, sedes y disponibilidad del equipo."
+      ],
+      [
+        "04 · Proyecto",
+        "Ejecutamos por etapas, revisamos avances y registramos decisiones. Los cambios de alcance se acuerdan antes de incorporarlos."
+      ],
+      [
+        "Seguimiento y mejora",
+        "Cerramos con evidencia de lo realizado y un plan de continuidad. Medimos avances contra la línea de base del proyecto, sin atribuir resultados que no se hayan comprobado."
+      ]
+    ]
+  },
+  {
+    "slug": "proyectos",
+    "title": "Proyectos",
+    "eyebrow": "EVIDENCIA Y CONFIDENCIALIDAD",
+    "headline": "Los resultados se muestran con respaldo",
+    "intro": "La confianza se construye con información que se puede verificar y con el respeto por cada organización.",
+    "sections": [
+      [
+        "Casos autorizados",
+        "Esta sección incorporará proyectos cuando exista autorización para publicar su contexto, alcance y resultados. Actualmente no se exhiben casos de clientes ni testimonios."
+      ],
+      [
+        "Qué debe demostrar un caso",
+        "Una necesidad definida, actividades realizadas, período de trabajo y resultados contrastables con una línea de base. Las cifras deben poder explicarse y sus límites quedar claros."
+      ],
+      [
+        "Conversemos sobre tu desafío",
+        "Podemos revisar el tipo de problema que necesitas resolver y proponer un alcance. Las referencias y antecedentes que puedan compartirse se entregarán con las autorizaciones correspondientes."
+      ]
+    ]
+  },
+  {
+    "slug": "recursos",
+    "title": "Recursos",
+    "eyebrow": "CRITERIOS PARA DECIDIR",
+    "headline": "Ideas prácticas para mejorar tu gestión",
+    "intro": "Orientación para preparar un diagnóstico y entender el trabajo que necesita tu organización.",
+    "sections": [
+      [
+        "Prepara tu primer diagnóstico",
+        "Reúne el mapa de procesos si existe, objetivos, indicadores, documentos de trabajo y resultados de auditorías anteriores. Identifica quién conoce cada proceso y qué dificultades enfrenta."
+      ],
+      [
+        "Cómo priorizar una brecha",
+        "Relaciona cada brecha con el riesgo, el impacto operativo y los recursos necesarios. Asigna responsable y fecha. Evita comenzar por producir documentos sin definir cómo se usarán."
+      ],
+      [
+        "Consulta las fuentes oficiales",
+        "Las normas son documentos protegidos. Este sitio ofrece orientación y enlaces al catálogo de ISO; no distribuye copias de normas ni reemplaza su lectura autorizada."
+      ],
+      [
+        "Una herramienta para tu equipo",
+        "Puedes descargar una hoja de preparación del diagnóstico. Es una guía inicial y debe adaptarse al alcance y contexto de la empresa."
+      ]
+    ],
+    "component": "resources"
+  },
+  {
+    "slug": "preguntas-frecuentes",
+    "title": "Preguntas frecuentes",
+    "eyebrow": "RESUELVE TUS DUDAS",
+    "headline": "Claridad antes de comenzar",
+    "intro": "Lo que conviene saber al evaluar consultoría, formación o desarrollo digital.",
+    "sections": [
+      [
+        "¿Puedo contratar implementación o ERP y después certificarme con CHP?",
+        "Si contratas implementación de sistemas de gestión o desarrollo ERP con CHP GLOBAL ISO, no puedes contratar nuestro servicio de certificación. Si contratas certificación con CHP GLOBAL ISO, no puedes contratar, recibir ni interactuar con nuestras otras líneas de servicio, incluidas implementación, desarrollo ERP, consultoría, auditoría interna, acompañamiento, gestión documental y capacitación. No ofrecemos paquetes que combinen certificación con nuestros otros servicios. Antes de contratar, informa qué servicios de CHP has recibido o tienes contratados. Toda solicitud está sujeta a revisión de compatibilidad e imparcialidad; enviar una consulta no implica aceptación del servicio."
+      ],
+      [
+        "¿Implementar es lo mismo que certificar?",
+        "No. Implementar es poner en funcionamiento un sistema. Certificar es una evaluación de tercera parte realizada por un organismo independiente. CHP GLOBAL ISO es un organismo de certificación y también ofrece consultoría y preparación. El alcance y las condiciones de cada servicio se establecen en la propuesta. Estas rutas son excluyentes para un mismo cliente de CHP, de acuerdo con nuestra Política de Gestión Integrada."
+      ],
+      [
+        "¿Cuánto tarda una implementación?",
+        "Depende de los procesos, sedes, tamaño, madurez y disponibilidad de las personas. La propuesta establece un plan realista después de revisar estas variables."
+      ],
+      [
+        "¿Cómo se define el precio?",
+        "Según el alcance, dedicación, modalidad, entregables y necesidades de traslado o desarrollo. La cotización distingue servicios y eventuales costos externos."
+      ],
+      [
+        "¿Puedo integrar varias normas?",
+        "Sí, puede evaluarse un sistema integrado para aprovechar procesos comunes. Las necesidades específicas de cada disciplina deben mantenerse visibles."
+      ],
+      [
+        "¿ISO 31000, ISO 19011 e ISO 26000 se certifican?",
+        "Se presentan aquí como directrices, no como certificaciones convencionales de sistemas de gestión. Apoyan la gestión de riesgos, las auditorías y la responsabilidad social, respectivamente."
+      ],
+      [
+        "¿Hay cursos con fechas y cupos confirmados?",
+        "El catálogo permite consultar y registrar interés. Cada convocatoria debe confirmar programa, horas, docente, evaluación, valor y condiciones antes de la inscripción."
+      ],
+      [
+        "¿El ERP está disponible para contratar de inmediato?",
+        "El sitio describe ámbitos de desarrollo. Las funciones disponibles, una eventual demo y el alcance se validan en una reunión y propuesta técnica."
+      ],
+      [
+        "¿Atienden fuera de Santiago?",
+        "La modalidad remota o presencial, cobertura y eventuales traslados se acuerdan según el proyecto. Indica tu comuna y región al solicitar una propuesta."
+      ]
+    ],
+    "component": "faq"
+  },
+  {
+    "slug": "cotizar",
+    "title": "Solicitar diagnóstico",
+    "eyebrow": "COMENCEMOS POR TU NECESIDAD",
+    "headline": "Cuéntanos qué quieres mejorar",
+    "intro": "Indica la ruta que necesitas: certificación o nuestros otros servicios. Son excluyentes y están sujetas a revisión de compatibilidad e imparcialidad.",
+    "sections": [
+      [
+        "¿Qué ocurre después?",
+        "Revisaremos tu solicitud para precisar el alcance y los antecedentes necesarios. El envío no constituye una contratación ni confirma disponibilidad, precio o fecha."
+      ],
+      [
+        "Comparte solo lo necesario",
+        "No adjuntes contraseñas, datos de trabajadores ni información confidencial de clientes. En esta etapa basta con una descripción general del desafío."
+      ]
+    ],
+    "component": "form"
+  },
+  {
+    "slug": "contacto",
+    "title": "Contacto",
+    "eyebrow": "HABLEMOS DE TU PROYECTO",
+    "headline": "El primer paso es una conversación",
+    "intro": "Escríbenos a contacto@chpglobaliso.cl o al WhatsApp +56 9 4493 4009. Presencia en Puerto Montt, Calama y Pozo Almonte.",
+    "sections": [
+      [
+        "Puerto Montt",
+        "Buin 356, depto. 301, Puerto Montt."
+      ],
+      [
+        "Sucursal Calama",
+        "Alejandrina Olivares, parcela 8, Calama."
+      ],
+      [
+        "Sucursal Pozo Almonte",
+        "Mamiña 752, Pozo Almonte."
+      ]
+    ],
+    "component": "form"
+  }
+]
