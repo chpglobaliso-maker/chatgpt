@@ -52,3 +52,17 @@
 /* Justify body copy throughout the public website, including mobile. */
 main p:not(.chp-eyebrow):not(.chp-breadcrumb){text-align:justify;text-align-last:start;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto;}
 
+/* Subtle green accents drawn from the official CHP logo. */
+:root{--chp-brand-green:#18eb06;--chp-green-line:rgba(24,235,6,.28)}
+.chp-ref-header:after{content:"";position:absolute;left:3.6%;right:3.6%;bottom:-1px;height:2px;background:linear-gradient(90deg,transparent,rgba(24,235,6,.35) 28%,rgba(24,235,6,.12) 72%,transparent);pointer-events:none}
+.chp-ref-home .chp-ref-hero h1:after{background:linear-gradient(90deg,#21a7ed 35%,rgba(24,235,6,.85))}
+.chp-ref-service:after{background:linear-gradient(90deg,#0065a4 8%,#30b1f2 38%,rgba(24,235,6,.65) 78%,transparent)}
+.chp-ref-panel{border-bottom:1px solid var(--chp-green-line)}
+.chp-ref-standards{border-bottom:1px solid var(--chp-green-line)}
+.chp-editorial-rule{background:linear-gradient(90deg,#0785ba 35%,rgba(24,235,6,.75))}
+.chp-interior>.wp-block-group.chp-section{border-bottom-color:rgba(37,151,83,.22)}
+.chp-sector-grid article{border-bottom:2px solid rgba(24,235,6,.5)}
+.chp-certification-service{border-top-color:rgba(37,151,83,.65)}
+.chp-policy-footer{border-top-color:rgba(37,151,83,.28)}
+.chp-ref-footer{border-top:2px solid rgba(24,235,6,.3)}
+
