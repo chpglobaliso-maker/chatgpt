@@ -66,3 +66,17 @@ main p:not(.chp-eyebrow):not(.chp-breadcrumb){text-align:justify;text-align-last
 .chp-policy-footer{border-top-color:rgba(37,151,83,.28)}
 .chp-ref-footer{border-top:2px solid rgba(24,235,6,.3)}
 
+/* Clearly visible green identity throughout interior pages. */
+.chp-editorial-hero{border-bottom:3px solid rgba(24,235,6,.65)}
+.chp-editorial-intro{border-left:4px solid rgba(24,235,6,.7)}
+.chp-editorial-rule{width:112px;height:4px;background:linear-gradient(90deg,#0785ba 0 35%,#18eb06 35% 100%)}
+.chp-interior>.wp-block-group.chp-section{border-bottom:1px solid rgba(37,151,83,.5)}
+main:not(:has(.chp-ref-home)) h2:after{content:"";display:block;width:46px;height:3px;margin-top:12px;background:rgba(24,235,6,.8)}
+main:not(:has(.chp-ref-home)) .chp-card{border-top:3px solid rgba(24,235,6,.65)}
+main:not(:has(.chp-ref-home)) .chp-hero{border-bottom:3px solid rgba(24,235,6,.65)}
+.chp-interior .chp-impartiality{border-left-color:#38b449}
+.chp-interior .chp-band{border-top:3px solid rgba(24,235,6,.75)}
+.chp-contact-city{border-bottom:3px solid rgba(24,235,6,.65)}
+.chp-sector-grid article{border-bottom:3px solid rgba(24,235,6,.75)}
+.chp-certification-service{border-top-color:rgba(24,235,6,.7)}
+
