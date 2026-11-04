@@ -17,11 +17,13 @@ const industry = html(`<section class="chp-section"><div class="chp-split"><div>
 const methodology = html(`<section class="chp-section"><p class="chp-eyebrow">NUESTRA METODOLOGÍA</p><h2>Un camino claro, desde el primer paso.</h2><div class="chp-grid four">${[['Descubre','Comprendemos tu contexto y objetivo.'],['Diagnóstico','Identificamos brechas y prioridades.'],['Propuesta','Acordamos alcance y entregables.'],['Proyecto','Ejecutamos, verificamos y mejoramos.']].map(([t,d],i)=>`<article><span class="chp-index">0${i+1} ─────</span><h3>${t}</h3><p>${d}</p></article>`).join('')}</div><a href="/metodologia/">Así trabajamos ↗</a></section>`);
 const standards = read('content/standards.json');
 const courses = read('content/courses.json');
+const impartiality = read('content/impartiality.json');
+const policyNotice = html(`<aside class="chp-impartiality" aria-label="Política de imparcialidad"><h2>${e(impartiality.title)}</h2><p>${e(impartiality.purpose)}</p><ul><li><strong>${e(impartiality.implementation)}</strong></li><li><strong>${e(impartiality.certification)}</strong></li></ul><p>${e(impartiality.conditions)}</p></aside>`);
 const seed = [];
 const shortcode = s => `<!-- wp:shortcode -->${s}<!-- /wp:shortcode -->`;
 const hero = d => group(group(p(`<a href="/">Inicio</a> / ${e(d.title)}`,'chp-breadcrumb')+p(e(d.eyebrow),'chp-eyebrow')+h(e(d.headline),1)+p(e(d.intro),'chp-intro')+(d.slug==='inicio'?html(`<div class="chp-actions">${action()}<a class="chp-button secondary" href="/servicios/">Explorar soluciones</a></div>`):''),''),d.slug==='inicio'?'chp-hero chp-homehero':'chp-hero','section');
 for(const d of read('content/pages.json')) {
-  let body = hero(d);
+  let body = hero(d) + (d.slug==='inicio'?'':policyNotice);
   if(d.component==='home') body += serviceCards;
   if(d.component==='faq') body += html(`<section class="chp-section chp-faq">${d.sections.map(([q,a])=>`<details><summary>${e(q)}</summary><p>${e(a)}</p></details>`).join('')}</section>`);
   else body += d.sections.map(([t,s])=>section(t,s)).join('');

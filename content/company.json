@@ -19,5 +19,13 @@
   "source": "Datos proporcionados por titular, 2026-11-04",
   "activity": "Organismo de certificación, consultoría, formación y tecnología",
   "network_statement": "CHP GLOBAL ISO SpA es un organismo de certificación respaldado por la red Exemplar Global e Intercert Latinoamérica.",
-  "network_statement_source": "Declaración del titular, 2026-11-04"
+  "network_statement_source": "Declaración del titular, 2026-11-04",
+  "impartiality_policy": {
+    "title": "Imparcialidad: servicios incompatibles",
+    "purpose": "Para resguardar la imparcialidad, la independencia y la objetividad de la auditoría de certificación, conforme a nuestra Política de Gestión Integrada, las rutas de contratación son excluyentes.",
+    "implementation": "Si contratas implementación de sistemas de gestión o desarrollo ERP con CHP GLOBAL ISO, no puedes contratar nuestro servicio de certificación.",
+    "certification": "Si contratas certificación con CHP GLOBAL ISO, no puedes contratar, recibir ni interactuar con nuestras otras líneas de servicio, incluidas implementación, desarrollo ERP, consultoría, auditoría interna, acompañamiento, gestión documental y capacitación.",
+    "conditions": "No ofrecemos paquetes que combinen certificación con nuestros otros servicios. Antes de contratar, informa qué servicios de CHP has recibido o tienes contratados. Toda solicitud está sujeta a revisión de compatibilidad e imparcialidad; enviar una consulta no implica aceptación del servicio.",
+    "source": "Instrucción del titular, 2026-11-04"
+  }
 }
